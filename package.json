@@ -2,7 +2,7 @@
   "name": "aktu-webevent",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "http://onceuponaktu.com/", 
+  "homepage" : "http://Frostrawberry.github.io/aktu-webevent/", 
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
